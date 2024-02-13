@@ -4,3 +4,8 @@ description: Bookmark this to keep an eye on my project updates!
 
 # Build settings
 markdown: kramdown
+
+on:
+  push:
+    branches:
+      - main
