@@ -3,7 +3,7 @@ title: Loic Le Meur homepage
 description: Bookmark this to keep an eye on my project updates!
 
 plugins:
-  -jekyll-relative-links
+  - jekyll-relative-links
 relative_links:
   enable: true
   collections: true
