@@ -43,4 +43,27 @@ qu’Apigee, Docker, JBoss, Quarkus …
 ▪ Formations (Quarkus, Docker, nouveaux arrivants).
 ▪ Organisation d’événements techniques.
 ▪ Rédaction de documentations techniques visant à promouvoir et diffuser les
-meilleures pratiques de développement et d’intégration au sein de Worldline.G
+meilleures pratiques de développement et d’intégration au sein de Worldline.
+
+### Initiation à la programmation en Java
+Java est un langage interprété, ce qui signifie qu'il ne peut pas être exécuté directement par le système d'exploitation. Pour exécuter un programme Java, il faut d'abord le compiler.
+A travers un premier projet Java Adrien a créer son premier projet Java avec un Main et la fonction _system.out.printf_ qui lui a permis d'afficher dans la console "Hello and Welcome!".
+  
+Ensuite, Adrien a pu avoir comment améliorer ce premier programme en utilisant la fonction _system.out.println_ qui permet de revenir à la ligne.
+  
+Enfin, Adrien a pu voir comment utiliser des arguments lorsqu'il execute son projet afin d'enrichir le message afficher.
+
+Durant cet exercice Adrien a appris : 
+- à créer un projet Java
+- à compiler son projet Java à l'aide de la commande :
+```shell
+$ javac .\src\Main.class
+```
+- à exécuter sur projet (lancer le Main de son projet) à l'aide de la commande:
+ ```shell
+$ java .\src\Main.java
+```
+
+
+
+### Présentation du service de Bureautique
