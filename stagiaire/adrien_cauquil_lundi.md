@@ -10,4 +10,4 @@
 
 ### Découverte de l'entreprise Worldline
 
-![Worldline_in_the_world](/image/worldline_monde.PNG)
+![Worldline_in_the_world](image/worldline_monde.PNG)
