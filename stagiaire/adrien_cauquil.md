@@ -1,5 +1,12 @@
 # Suivi du stage d'Adrien CAUQUIL
 
+Adrien CAUQUIL, élève de 3è est venu faire un stage immercif durant 1 semaine au sein de l'entreprise WORLDLINE.
+Son encadrant a été Loïc Le Meur. 
+
+Le but de son stage a été de faire découvrir à Adrien les différents métiers de l'IT présent chez WORLDLINE. De plus Adrien 
+a pu faire une initiation à la programmation en JAVA. 
+
+
 ## Informations du stage
 
 - stage de 3ème.
