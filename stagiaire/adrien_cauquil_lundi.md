@@ -2,11 +2,15 @@
 
 ## Lundi 19 Février 2024
 
+<hr>
+
 ### Programme : 
 - Découverte / présentation de l'entreprise
 - Présentation de GRS
 - Initiation à la programmation en Java
 - Présentation sur service "Bureautique"
+
+<hr>
 
 ### Découverte de l'entreprise Worldline
 
@@ -27,6 +31,8 @@ axes :
   vente de licence/intégration des logiciels de paiement de Worldline.  
   ▪ Mobility & E-Transactional Services : services en ligne transactionnels pour le eticketing, e-mail, e-administration, e-contact et liés aux objets connectés.
 
+<hr>
+
 ### Présentation de GRS (_Global Resources and Support_)
 
 ![GRS_organigramme](image/grs_organigramme.PNG)
@@ -44,6 +50,8 @@ qu’Apigee, Docker, JBoss, Quarkus …
 ▪ Organisation d’événements techniques.
 ▪ Rédaction de documentations techniques visant à promouvoir et diffuser les
 meilleures pratiques de développement et d’intégration au sein de Worldline.
+
+<hr>
 
 ### Initiation à la programmation en Java
 Java est un langage interprété, ce qui signifie qu'il ne peut pas être exécuté directement par le système d'exploitation. Pour exécuter un programme Java, il faut d'abord le compiler.
@@ -64,6 +72,6 @@ $ javac .\src\Main.class
 $ java .\src\Main.java
 ```
 
-
+<hr>
 
 ### Présentation du service de Bureautique
