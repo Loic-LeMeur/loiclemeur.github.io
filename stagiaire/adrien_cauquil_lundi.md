@@ -25,4 +25,22 @@ axes :
   en général.  
   ▪ Financial Services : services de paiement porteurs, services en ligne financiers et
   vente de licence/intégration des logiciels de paiement de Worldline.  
-  ▪ Mobility & E-Transactional Services : services en ligne transactionnels pour le eticketing, e-mail, e-administration, e-contact et liés aux objets connectés.  
+  ▪ Mobility & E-Transactional Services : services en ligne transactionnels pour le eticketing, e-mail, e-administration, e-contact et liés aux objets connectés.
+
+### Présentation de GRS (_Global Resources and Support_)
+
+![GRS_organigramme](image/grs_organigramme.PNG)
+**GRS** est donc constituée de plusieurs départements dont Consulting & Automated
+Runtimes Efficiency, qui fournit du support et participe à la résolution de bugs. Ce
+département comporte trois équipes : Containers & Runtime Integration (CRI), Robotic
+Process Automation (RPA) et Performance. L’équipe Performance propose entre autres des
+outils pour tester les performances des applications, notamment des simulateurs de charge
+et des outils d’analyse. L’équipe RPA est chargée de l’automatisation de tâches récurrentes
+par des robots. Quant à l’équipe CRI (équipe transverse), au sein de laquelle j’ai réalisé mon
+stage, elle participe aux tâches suivantes :
+▪ Support technique sur différentes solutions utilisées dans l’entreprise tel
+qu’Apigee, Docker, JBoss, Quarkus …
+▪ Formations (Quarkus, Docker, nouveaux arrivants).
+▪ Organisation d’événements techniques.
+▪ Rédaction de documentations techniques visant à promouvoir et diffuser les
+meilleures pratiques de développement et d’intégration au sein de Worldline.G
