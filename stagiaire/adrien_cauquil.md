@@ -26,7 +26,8 @@ a pu faire une initiation à la programmation en JAVA.
 
 ## Idées pour le stage
 
-- faire une API REST avec Quarkus
-- Héberger le code sur un repositoire GITHUB
-- Mettre en place des GitHub pages
+- initiation au Java.
+- faire une API REST avec Quarkus.
+- Héberger le code sur un repositoire GITHUB.
+- Mettre en place des GitHub pages.
 - Faire un suivi, rapport d'activitées journalié.
